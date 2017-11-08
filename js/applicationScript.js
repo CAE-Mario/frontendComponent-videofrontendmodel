@@ -76,7 +76,7 @@ $(document).ready(function() {
   init(); 
 window.counter = 0;
 
-nextQuiz(); //name of the Functon defined in the Model
+nextQuiz(); 
 
 
 });
