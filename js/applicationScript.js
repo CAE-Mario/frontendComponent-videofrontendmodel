@@ -59,7 +59,7 @@ var nextQuiz = function(){
 
 //end variable declaration
 
-  client.sendRequest("GET", ?videoquiz/getQuiz/?, "", "", {}, false,
+  client.sendRequest("GET", "videoquiz/getQuiz/?, "", "", {}, false,
   function(data, type) {
     console.log(data);
   },
