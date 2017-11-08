@@ -77,7 +77,7 @@ window.counter +=1;
 
     }else{
  
-       $("# id of the question").text("Quiz completed thank you!");
+       $("#question").text("Quiz completed thank you!");
  
        $('label').hide();
 
