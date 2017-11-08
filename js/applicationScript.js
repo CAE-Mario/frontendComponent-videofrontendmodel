@@ -71,9 +71,9 @@ window.counter +=1;
 
 	    $('#radioD').parent().contents().last()[0].textContent=data.answerD;
 
-	    $('# video').attr('src',data.videolink);
+	    $('#video').attr('src',data.videolink);
 	
-    	    $("# id of the question").text(data.question);
+    	    $("#question").text(data.question);
 
     }else{
  
