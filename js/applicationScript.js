@@ -67,7 +67,7 @@ window.counter +=1;
 
 	    $('#radioB').parent().contents().last()[0].textContent=data.answerB;
 
-	    $('# id of 3th radio button').parent().contents().last()[0].textContent=data.answerC;
+	    $('#radioC').parent().contents().last()[0].textContent=data.answerC;
 
 	    $('# id of 4th radio button').parent().contents().last()[0].textContent=data.answerD;
 
