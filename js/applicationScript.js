@@ -63,7 +63,7 @@ window.counter +=1;
   function(data, type) {
      if(Object.keys(data).length > 0){
 
-	    $('#button').parent().contents().last()[0].textContent=data.answerA;
+	    $('#radioA').parent().contents().last()[0].textContent=data.answerA;
 
 	    $('# id of 2th radio button').parent().contents().last()[0].textContent=data.answerB;
 
