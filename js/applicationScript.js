@@ -84,7 +84,7 @@ window.counter +=1;
        $('button').hide();
  
    }  
-  khk
+  
   },
   function(error) {
     console.log(error);
