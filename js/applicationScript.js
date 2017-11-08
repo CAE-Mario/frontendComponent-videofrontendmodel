@@ -73,5 +73,10 @@ var nextQuiz = function(){
 
 
 $(document).ready(function() {
-  init();
+  init(); 
+window.counter = 0;
+
+nextQuiz(); //name of the Functon defined in the Model
+
+
 });
