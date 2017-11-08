@@ -69,7 +69,7 @@ window.counter +=1;
 
 	    $('#radioC').parent().contents().last()[0].textContent=data.answerC;
 
-	    $('# id of 4th radio button').parent().contents().last()[0].textContent=data.answerD;
+	    $('#radioD').parent().contents().last()[0].textContent=data.answerD;
 
 	    $('# id of the video').attr('src',data.videolink);
 	
