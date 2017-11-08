@@ -98,7 +98,7 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 <span id='question'  style="position: absolute; left: 30px; top: 210px; width: 230px; height: 30px; ">A text for the question</span>
 
    
-<label id=''  style="position: absolute; left: 30px; top: 303px;  "><input  name="test"  checked  autofocus  type="radio" id="radioC"   >Option</label>
+<label id=''  style="position: absolute; left: 30px; top: 303px;  "><input  name="test"  type="radio" id="radioC"   >Option</label>
 
    
 <label id=''  style="position: absolute; left: 231.00961303710938px; top: 304.0352554321289px;  "><input  name="test"  type="radio" id="radioD"   >Option</label>
